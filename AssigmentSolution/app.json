@@ -1,7 +1,7 @@
 {
-  "id": "4556363f-5564-4a16-95cd-d4083631e284",
-  "name": "AssigmentSolution",
-  "publisher": "pawel",
+  "id": "b9bd7ed3-a2e8-49d5-873c-6f4be0e22bb7",
+  "name": "ALProject3",
+  "publisher": "Pawel",
   "version": "1.0.0.0",
   "brief": "",
   "description": "",
@@ -13,19 +13,28 @@
   "dependencies": [],
   "screenshots": [],
   "platform": "1.0.0.0",
-  "application": "22.0.0.0",
+  "application": "29.0.0.0",
   "idRanges": [
     {
       "from": 60100,
       "to": 60149
     }
   ],
-  "features": [
-    "NoImplicitWith"
-  ],
   "resourceExposurePolicy": {
     "allowDebugging": true,
-    "allowDownloadingSource": false,
-    "includeSourceInSymbolFile": false
-  }
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "18.0",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ],
+  "internalsVisibleTo": [
+    {
+       "id": "3accea60-3488-4521-80ed-41b9f64cdbe8",
+  "name": "ALProject5Test",
+  "publisher": "Default Publisher"
+    }
+  ]
 }

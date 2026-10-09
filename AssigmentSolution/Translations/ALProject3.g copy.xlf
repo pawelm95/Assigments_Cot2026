@@ -1,0 +1,364 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="ALProject3">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2504651678 - Field 1570365545 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assigment Nos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Assigment Setup - Field Assigment Nos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2504651678 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Assigment Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1481946778 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assigment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Assigments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1481946778 - Field 3877927551 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Category Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Assigments - Field Category Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1481946778 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Assigments - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1481946778 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Assigments - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1481946778 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Assigments - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1481946778 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Assigments - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1481946778 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Assigments - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1481946778 - Field 329424276 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Title</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Assigments - Field Title - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1481946778 - Field 2708250016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Assigments - Field User ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3414564928 - Method 2073389137 - NamedType 2379332825" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Remember to post this %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assigment Subscribers - Method Release Sales Document_OnAfterManualReleaseSalesDoc - NamedType SalesHeaderReleaseMSG</note>
+        </trans-unit>
+        <trans-unit id="Page 1555806059 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assignment Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assigment Card - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 1555806059 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The assignment card provides you with information on the task you are currently looking at, the assignment will help you keep track of who is responsible for the assignment, right now, and what the current status is.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assigment Card - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 1555806059 - Control 318613646 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Details</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assigment Card - Control Details - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1555806059 - Control 3877927551 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Category Code field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assigment Card - Control Category Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1555806059 - Control 4190130733 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Customer No. field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assigment Card - Control Customer No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1555806059 - Control 2708250016 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the User ID field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assigment Card - Control User ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1555806059 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assigment Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1555806059 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assigment Card - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1555806059 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assigment Card - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1555806059 - Control 513339096 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Status field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assigment Card - Control Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1555806059 - Control 329424276 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Title field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assigment Card - Control Title - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1555806059 - Control 2572698709 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assignment Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assigment Card - Control systemInfo - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 1555806059 - Control 2572698709 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The system info ment will help you keep track of who is responsible for the assignment, right now, and what the current status is.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assigment Card - Control systemInfo - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 1555806059 - Control 2572698709 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stystem Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assigment Card - Control systemInfo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1555806059 - Control 577209412 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the SystemCreatedAt field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assigment Card - Control SystemCreatedAt - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1555806059 - Control 4000648066 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the SystemCreatedBy field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assigment Card - Control SystemCreatedBy - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1555806059 - Control 1367528460 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the SystemId field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assigment Card - Control SystemId - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1555806059 - Control 2453272523 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the SystemModifiedAt field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assigment Card - Control SystemModifiedAt - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1555806059 - Control 4085837753 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the SystemModifiedBy field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assigment Card - Control SystemModifiedBy - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1555806059 - Action 922191573 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Wizard</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assigment Card - Action Wizard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2263322604 - Control 2038142925 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assigment FactBox - Control Genereal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2263322604 - Control 25700210 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Balance field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assigment FactBox - Control Balance - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2263322604 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the name of the customer.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assigment FactBox - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 285165849 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assigment List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assigment List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 285165849 - Control 4190130733 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Customer No. field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assigment List - Control Customer No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 285165849 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assigment List - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 285165849 - Control 513339096 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Status field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assigment List - Control Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 285165849 - Control 329424276 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Title field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assigment List - Control Title - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2504651678 - Control 1570365545 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Assigment Nos field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assigment Setup - Control Assigment Nos - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 461309538 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assigment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assigment Wizard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 461309538 - Control 3647570164 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Let's go!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assigment Wizard - Control Let's go! - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 461309538 - Control 727926705 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Step1 - Replace this text with some more instructions.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assigment Wizard - Control Group22 - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 461309538 - Control 576947413 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Welcome to Assigment Setup Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assigment Wizard - Control Welcome to Assigment Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 461309538 - Control 1612614122 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Step1 - Replace this text with some instructions.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assigment Wizard - Control Group18 - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 461309538 - Control 2279239964 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ustawiamy no series </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assigment Wizard - Control Step2 - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 461309538 - Control 1365623322 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Now completed solution setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assigment Wizard - Control Group23 - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 461309538 - Control 1546979963 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>That's it!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assigment Wizard - Control That's it! - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 461309538 - Control 2641016556 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>To save this setup, choose Finish.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assigment Wizard - Control Group25 - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 461309538 - Action 2438272767 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Back</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assigment Wizard - Action ActionBack - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 461309538 - Action 3259912055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finish</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assigment Wizard - Action ActionFinish - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 461309538 - Action 914282563 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Next</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assigment Wizard - Action ActionNext - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1579457559 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>assigmentAPI</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AssigmentAPI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1579457559 - Control 1425150023 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Category Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AssigmentAPI - Control categoryCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1579457559 - Control 1108861191 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AssigmentAPI - Control customerNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1579457559 - Control 3179096107 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AssigmentAPI - Control no - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1579457559 - Control 998393528 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AssigmentAPI - Control status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1579457559 - Control 1656136372 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Title</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AssigmentAPI - Control title - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1579457559 - Control 2962283328 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AssigmentAPI - Control userID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2541029767 - Control 1555587087 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3377672696">
+          <source>Assigments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension O365 Activities EXT - Control Assigment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3117456643 - Field 1481946778 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 132259524">
+          <source>Assigments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Activities Cue Ext - Field Assigments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3117456643 - Field 260874669 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 132259524">
+          <source>Completed Assigments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Activities Cue Ext - Field Completed Assigments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3117456643 - Field 3984745920 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 132259524">
+          <source>In progress Assigments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Activities Cue Ext - Field In progress Assigments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3117456643 - Field 1787813640 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 132259524">
+          <source>Incompleted Assigments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Activities Cue Ext - Field Incompleted Assigments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Profile 854277676 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assignemnt Manager</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Profile AssignmentManager - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Profile 854277676 - Property 4111922599" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The role of the asssignment manager</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Profile AssignmentManager - Property ProfileDescription</note>
+        </trans-unit>
+        <trans-unit id="Enum 4179038987 - EnumValue 2972410191 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Completed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Assigment Status - EnumValue completed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4179038987 - EnumValue 1090713286 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>In Progress</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Assigment Status - EnumValue In Progress - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4179038987 - EnumValue 753401598 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Incompleted</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Assigment Status - EnumValue Incompleted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4179038987 - EnumValue 2052431574 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Removed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Assigment Status - EnumValue Removed - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

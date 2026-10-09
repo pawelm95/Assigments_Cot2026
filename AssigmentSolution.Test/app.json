@@ -1,7 +1,7 @@
 {
-  "id": "a3390f10-ea5d-44f1-8922-dae67685df2e",
-  "name": "AssigmentSolution.Test",
-  "publisher": "Pawel",
+  "id": "3accea60-3488-4521-80ed-41b9f64cdbe8",
+  "name": "ALProject5Test",
+  "publisher": "Default Publisher",
   "version": "1.0.0.0",
   "brief": "",
   "description": "",
@@ -12,33 +12,28 @@
   "logo": "",
   "dependencies": [
     {
-      "publisher": "Microsoft",
-      "name": "Library Assert",
-      "id": "dd0be2ea-f733-4d65-bb34-a28f4624fb14",
-      "version": "22.0.0.0"
-    },
-    {
-      "publisher": "Microsoft",
-      "name": "Any",
-      "id": "e7320ebb-08b3-4406-b1ec-b4927d3e280b",
-      "version": "22.0.0.0"
+      "id": "b9bd7ed3-a2e8-49d5-873c-6f4be0e22bb7",
+  "name": "ALProject3",
+  "publisher": "Pawel",
+  "version": "1.0.0.0"
     }
   ],
   "screenshots": [],
   "platform": "1.0.0.0",
-  "application": "22.0.0.0",
+  "application": "29.0.0.0",
   "idRanges": [
     {
-      "from": 90000,
-      "to": 99999
+      "from": 50100,
+      "to": 50149
     }
-  ],
-  "features": [
-    "NoImplicitWith"
   ],
   "resourceExposurePolicy": {
     "allowDebugging": true,
-    "allowDownloadingSource": false,
-    "includeSourceInSymbolFile": false
-  }
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "18.0",
+  "features": [
+    "NoImplicitWith"
+  ]
 }
